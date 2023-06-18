@@ -4,3 +4,4 @@ ipykernel
 notebook
 jupyterlab
 langchain
+sagemaker
